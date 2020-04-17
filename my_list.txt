@@ -1,0 +1,6 @@
+"Buffy"
+"Xander"
+"Willow"
+"Anya"
+"Spike"
+"Giles"
